@@ -1,7 +1,8 @@
 # IoT & Embedded Systems Projects
 
-**View all demos here ---> https://drive.google.com/drive/folders/1DpUYnRKfqEHypOIY2tHVfZWt0TNyDx2p?usp=sharing
-**
+**View all demos here ---> https://drive.google.com/drive/folders/1DpUYnRKfqEHypOIY2tHVfZWt0TNyDx2p?usp=sharing**
+
+
 A collection of embedded systems projects I help build. All projects were team-based, and I served as the **code lead** — meaning I wrote and integrated most of the software.
 
 ---
