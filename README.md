@@ -186,12 +186,8 @@ All projects use the Arduino IDE.
 - **Sensor fusion** — combining multiple inputs (IR array, temp + humidity + light) to make decisions
 - **State machines** — essential for servo control and animation sequencing
 - **Hardware debugging** — wiring issues, voltage drops, and sensor calibration take longer than writing code
-- **Team coordination** — syncing hardware and software development across 5-10 people
+- **Team coordination** — syncing hardware and software development across 3-5 people
 
 ---
 
-## Course
-
-Engineering Design I & II — Chulalongkorn University (ISE)
-
-All projects were team-based (5-10 people). I was responsible for software architecture and implementation.
+All projects were team-based (3-5 people). I was responsible for software architecture and implementation.
