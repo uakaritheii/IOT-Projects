@@ -1,6 +1,6 @@
 # IoT & Embedded Systems Projects
 
-A collection of embedded systems projects I built during my Engineering Design courses at Chulalongkorn University. All projects were team-based, and I served as the **code lead** — meaning I wrote and integrated most of the software.
+A collection of embedded systems projects I help build. All projects were team-based, and I served as the **code lead** — meaning I wrote and integrated most of the software.
 
 ---
 
